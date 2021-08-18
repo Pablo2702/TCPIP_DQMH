@@ -13,11 +13,11 @@
 		<Item Name="TCP Client Module" Type="Folder">
 			<Item Name="TCP Client.lvlib" Type="Library" URL="../Libraries/TCP Client/TCP Client.lvlib"/>
 		</Item>
-		<Item Name="Test TCP Server Module" Type="Folder">
-			<Item Name="Test TCP Server.lvlib" Type="Library" URL="../Libraries/Test TCP Server API/Test TCP Server.lvlib"/>
+		<Item Name="TCP Server Module" Type="Folder">
+			<Item Name="TCP Server.lvlib" Type="Library" URL="../Libraries/Test TCP Server API/TCP Server.lvlib"/>
 		</Item>
 		<Item Name="Test TCP Client API.vi" Type="VI" URL="../Libraries/TCP Client/Test TCP Client API.vi"/>
-		<Item Name="Test Test TCP Server API.vi" Type="VI" URL="../Libraries/Test TCP Server API/Test Test TCP Server API.vi"/>
+		<Item Name="Test TCP Server API.vi" Type="VI" URL="../Libraries/Test TCP Server API/Test TCP Server API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
