@@ -15,3 +15,6 @@
 *.aliases
 *.lvlps
 .cache/
+TCP-IP DQMH/Libraries/TCP Client/Main.vi
+TCP-IP DQMH/Libraries/Test TCP Server API/Main.vi
+TCP-IP DQMH
